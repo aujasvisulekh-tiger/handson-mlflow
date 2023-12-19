@@ -1,0 +1,15 @@
+artifact_uri: /home/aujasvi/TAMLEP/handson-mlflow/mlruns/326144508528889643/19937452e16b4daca746df75f0f3a623/artifacts
+end_time: 1702980556117
+entry_point_name: ''
+experiment_id: '326144508528889643'
+lifecycle_stage: active
+run_id: 19937452e16b4daca746df75f0f3a623
+run_name: powerful-turtle-415
+run_uuid: 19937452e16b4daca746df75f0f3a623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702980554307
+status: 3
+tags: []
+user_id: aujasvi

@@ -1,0 +1,15 @@
+artifact_uri: /home/aujasvi/TAMLEP/handson-mlflow/mlruns/326144508528889643/1e5494db20f04d4d9b84cdc28d51c95c/artifacts
+end_time: 1702980552852
+entry_point_name: ''
+experiment_id: '326144508528889643'
+lifecycle_stage: active
+run_id: 1e5494db20f04d4d9b84cdc28d51c95c
+run_name: youthful-fawn-798
+run_uuid: 1e5494db20f04d4d9b84cdc28d51c95c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702980550323
+status: 3
+tags: []
+user_id: aujasvi

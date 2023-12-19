@@ -1,0 +1,15 @@
+artifact_uri: /home/aujasvi/TAMLEP/handson-mlflow/mlruns/0/1801e6d30547495881a12387f8120abe/artifacts
+end_time: 1702980753435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1801e6d30547495881a12387f8120abe
+run_name: silent-moose-515
+run_uuid: 1801e6d30547495881a12387f8120abe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702980747080
+status: 3
+tags: []
+user_id: aujasvi
