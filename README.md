@@ -22,7 +22,7 @@ This is a handson practice for mlflow, following the conference from pydata berl
 ## Mlflow UI:
 
 - Default Experiment:
-[Default](images/Default_experiment.png)
+![Default](images/Default_experiment.png)
 
 -ElasticNet_wine Experiment:
-[ElasticNet](images/ElasticNet_wine_experiment.png)
+![ElasticNet](images/ElasticNet_wine_experiment.png)
