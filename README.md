@@ -1,8 +1,8 @@
-# handson-mlflow
+# Handson practice of MLFlow on Wine Quality dataset.
 
 This is a handson practice for mlflow, following the conference from pydata berlin 2019.
 
-MLFlow command:
+## MLFlow command:
 
 - Initiate/Launch MLFlow server:
 `mlflow server --backend-store-uri mlruns/ --default-artifact-root mlruns/ --host 0.0.0.0 --port 5000`
@@ -18,3 +18,11 @@ MLFlow command:
 
 - Run docker container:
 `docker run -p 8080:8080 elastic_net_wine`
+
+## Mlflow UI:
+
+- Default Experiment:
+[Default](images/Default_experiment.png)
+
+-ElasticNet_wine Experiment:
+[ElasticNet](images/ElasticNet_wine_experiment.png)
